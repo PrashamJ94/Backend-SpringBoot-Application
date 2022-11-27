@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.hedgenet_backend.HedgenetBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.195 s - in com.example.hedgenet_backend.HedgenetBackendApplicationTests
