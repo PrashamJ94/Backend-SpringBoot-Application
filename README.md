@@ -3,7 +3,7 @@ A Backend SpringBoot application for a virtual trading platform 'hedgenet' which
 
 The endpoints were created to implemented three main functionalities: <br />
 1.Authorization <br />
-2.Trading features of the platform
+2.Trading features of the platform <br />
 3.Social features of the platform
 
 # Responsibilities
