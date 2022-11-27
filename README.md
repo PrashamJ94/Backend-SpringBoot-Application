@@ -5,7 +5,7 @@ A Backend SpringBoot application for a virtual trading platform 'hedgenet' which
 Creating RESTAPI endpoints for the application which communicate with relational database using repository pattern of Spring Data JPA. Deployed the application on Microsoft Azure Cloud using Docker and Kubernetes service.
 
 The endpoints were created to implemented three main functionalities: <br />
-1.Authorization <br />
+1.Authorization of users<br />
 2.Trading features of the platform <br />
 3.Social features of the platform
 
